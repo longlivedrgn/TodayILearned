@@ -7,6 +7,7 @@
 |1월3일(화)|X|classVsStruct,ARC 공부,nil-coalescing를 하였다!|
 |1월4일(수)|Swift Performance|에러 핸들링 공부|
 |1월5일(목)|AutoLayout|enum type 공부, lazy 공부|
+|1월6일(금)|X|Outlet Collection, rawValue|
 
 
 
