@@ -9,6 +9,7 @@
 |1월5일(목)|AutoLayout|enum type 공부, lazy 공부|
 |1월6일(금)|X|Outlet Collection, rawValue|
 |1월7일(토)|X|휴식|
+|1월8일(일)|X|상속, unit test|
 
 
 
