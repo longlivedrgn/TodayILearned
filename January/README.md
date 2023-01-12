@@ -12,3 +12,5 @@
 |1월8일(일)|X|상속, unit test|
 |1월9일(월)|UnitTest|UML 예습하기, delegate 공부하기|
 |1월10일(화)|X|delegate|
+|1월11일(수)|UML|first문|
+|1월12일(목)|stack&queue|ARC,type casting|
