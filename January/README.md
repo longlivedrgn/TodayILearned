@@ -14,3 +14,4 @@
 |1월10일(화)|X|delegate|
 |1월11일(수)|UML|first문|
 |1월12일(목)|stack&queue|ARC,type casting|
+|1월13일(금)|X|Optional, 배열 안전하게 조회하기|
