@@ -15,3 +15,5 @@
 |1월11일(수)|UML|first문|
 |1월12일(목)|stack&queue|ARC,type casting|
 |1월13일(금)|X|Optional, 배열 안전하게 조회하기|
+|1월14일(토)|X|휴식|
+|1월15일(일)|X|SOLID 예습하기|
