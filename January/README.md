@@ -19,5 +19,6 @@
 |1월15일(일)|X|SOLID 예습하기|
 |1월16일(월)|SOLID|Generic|
 |1월17일(화)|X|LLDB 예습하기, Protocol|
-|1월18일(화)|LLDB|Protocol 마저 뿌시기|
+|1월18일(수)|LLDB|Protocol 마저 뿌시기|
+|1월19일(목)|Protocol|프로젝트|
 
