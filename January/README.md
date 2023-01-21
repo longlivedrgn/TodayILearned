@@ -21,4 +21,6 @@
 |1월17일(화)|X|LLDB 예습하기, Protocol|
 |1월18일(수)|LLDB|Protocol 마저 뿌시기|
 |1월19일(목)|Protocol|프로젝트|
+|1월20일(금)|X|compactMap,DoubleStack|
+|1월22일(토)|X|휴식|
 
