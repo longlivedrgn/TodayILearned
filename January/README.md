@@ -23,4 +23,5 @@
 |1월19일(목)|Protocol|프로젝트|
 |1월20일(금)|X|compactMap,DoubleStack|
 |1월22일(토)|X|휴식|
+|1월23일(일)|X|map 삼형제, protocol|
 
