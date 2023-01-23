@@ -24,4 +24,5 @@
 |1월20일(금)|X|compactMap,DoubleStack|
 |1월22일(토)|X|휴식|
 |1월23일(일)|X|map 삼형제, protocol|
+|1월24일(토)|X|Autolayout공부시작, protocol 공부 끝내기|
 
