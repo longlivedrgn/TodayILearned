@@ -22,7 +22,8 @@
 |1월18일(수)|LLDB|Protocol 마저 뿌시기|
 |1월19일(목)|Protocol|프로젝트|
 |1월20일(금)|X|compactMap,DoubleStack|
-|1월22일(토)|X|휴식|
-|1월23일(일)|X|map 삼형제, protocol|
-|1월24일(토)|X|Autolayout공부시작, protocol 공부 끝내기|
+|1월22일(일)|X|휴식|
+|1월23일(금)|X|map 삼형제, protocol|
+|1월24일(화)|X|Autolayout공부시작, protocol 공부 끝내기|
+|1월25일(수)|고차함수|ScrollView 공부하기, Update Cycle 공부|
 
