@@ -28,4 +28,5 @@
 |1월25일(수)|고차함수|ScrollView 공부하기, Update Cycle 공부|
 |1월26일(목)|TableView,Json|ScrollView 끝내기, TableView 복습, 메타타입|
 |1월27일(금)|X|프로젝트 진행|
+|1월28일(토)|X|Adaptive API 공부|
 
