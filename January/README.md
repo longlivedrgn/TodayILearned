@@ -30,4 +30,5 @@
 |1월27일(금)|X|프로젝트 진행|
 |1월28일(토)|X|Adaptive API 공부|
 |1월30일(월)|tableViewCell|prepareForReuse|
+|1월31일(화)|X|Autolayout|
 
